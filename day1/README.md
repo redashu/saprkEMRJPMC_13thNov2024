@@ -1,1 +1,4 @@
-# saprkEMRJPMC_13thNov2024
+## Good to Know things given below 
+
+<img src="know.png">
+
