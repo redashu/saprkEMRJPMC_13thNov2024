@@ -128,3 +128,18 @@ annual-enterprise-survey-2023-financial-year-provisional.csv
 fin.csv
 
 ```
+
+### uploading data into HDFS 
+
+```
+ hdfs  dfs  -put  fin.csv    hdfs:///data/ashu-data/
+[hadoop@ip-10-0-21-201 ashutoshh]$ hdfs  dfs  -ls  /data/ashu-data
+Found 1 items
+-rw-r--r--   1 hadoop hdfsadmingroup    8065547 2024-11-13 11:07 /data/ashu-data/fin.csv
+
+```
+
+## Spark OverView 
+
+<img src="sparkv.png">
+
