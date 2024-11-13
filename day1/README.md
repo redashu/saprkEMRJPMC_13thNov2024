@@ -108,3 +108,23 @@ annual-enterprise-survey-2023-financial-year-provisional.csv
 [hadoop@ip-10-0-29-84 ashutoshh]$ 
 
 ```
+
+### final history 
+
+```
+ 3  hdfs dfs  -ls /
+    4  hdfs dfs  -ls /data
+    5  hdfs dfs  -mkdir  /data/ashu-data
+    6  mkdir  ashutoshh 
+    7  cd ashutoshh/
+    8  wget  https://raw.githubusercontent.com/redashu/Datasets/refs/heads/master/annual-enterprise-survey-2023-financial-year-provisional.csv
+    9  ls
+   10  history 
+[hadoop@ip-10-0-21-201 ashutoshh]$ ls
+annual-enterprise-survey-2023-financial-year-provisional.csv
+[hadoop@ip-10-0-21-201 ashutoshh]$ 
+[hadoop@ip-10-0-21-201 ashutoshh]$ mv  annual-enterprise-survey-2023-financial-year-provisional.csv   fin.csv
+[hadoop@ip-10-0-21-201 ashutoshh]$ ls
+fin.csv
+
+```
