@@ -39,3 +39,10 @@
  spark-submit  --master yarn --num-executors 4 --executor-cores 1  --executor-memory 4g  --conf spark.memory.fraction=0.8 --conf spark.memory.storageFraction=0.2   ashu-wc.py  
 
 ```
+
+## Dynamic executor 
+
+```
+spark-submit  --master yarn  --conf spark.dynamicAllocation.enabled=true  --conf spark.dynamicAllocation.minExecutors=3  --conf spark.dynamicAllocation.maxExecutors=10    --executor-cores 1  --executor-memory 4g  --conf spark.memory.fraction=0.8 --conf spark.memory.storageFraction=0.2   ashu-wc.py
+
+```
