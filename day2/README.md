@@ -29,3 +29,7 @@
    16  history 
 
 ```
+## spark bigdata word count example 
+
+<img src="wc1.png">
+
