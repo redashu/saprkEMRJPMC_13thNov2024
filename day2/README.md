@@ -33,3 +33,9 @@
 
 <img src="wc1.png">
 
+### spark submit 
+
+```
+ spark-submit  --master yarn --num-executors 4 --executor-cores 1  --executor-memory 4g  --conf spark.memory.fraction=0.8 --conf spark.memory.storageFraction=0.2   ashu-wc.py  
+
+```
