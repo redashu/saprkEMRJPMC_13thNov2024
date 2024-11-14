@@ -1,1 +1,6 @@
-# saprkEMRJPMC_13thNov2024
+## Revision and overview 
+
+### Nodes in EMR
+
+<img src="nodes1.png">
+
