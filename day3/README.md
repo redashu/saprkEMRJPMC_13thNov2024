@@ -18,3 +18,7 @@
 
 <img src="sqlnew.png">
 
+### spark Streaming WAL understanding 
+
+<img src="wal.png">
+
