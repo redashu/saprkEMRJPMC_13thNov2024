@@ -14,3 +14,7 @@
 
 <img src="logs.png">
 
+### spark SQL things 
+
+<img src="sqlnew.png">
+
