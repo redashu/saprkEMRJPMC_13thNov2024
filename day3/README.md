@@ -10,3 +10,7 @@
 
 <img src="s32.png">
 
+## logs in spark 
+
+<img src="logs.png">
+
