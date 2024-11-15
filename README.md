@@ -4,3 +4,9 @@
 
 <img src="plan.png">
 
+# Spark community info -- email list , live updates by COnf
+
+[click_here](https://spark.apache.org/community.html)
+
+
+
